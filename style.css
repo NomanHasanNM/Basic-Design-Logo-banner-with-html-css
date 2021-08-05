@@ -1,0 +1,35 @@
+.menu{
+    background-color: wheat;
+    width: 100%;
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+}
+img{
+    height: 150px;
+}
+.banner{
+    width:100%;
+}
+
+li{
+    padding: 20px 95px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 0 75px 75px;
+    background-color: antiquewhite;
+
+}ul{
+     
+    margin: auto;
+}
+a{
+ text-decoration: none;
+}
+li:hover{
+    background-color: rgb(185, 185, 128);
+    border-radius: 75px 75px 0 0;
+}
